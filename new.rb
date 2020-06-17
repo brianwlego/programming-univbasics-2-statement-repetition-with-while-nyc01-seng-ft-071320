@@ -5,6 +5,6 @@ while count<=10 do
   break if count == 0
   puts "#{count}"
   count -= 1 
-  puts "#{message}"
+  
 end
-# puts message
+puts message
